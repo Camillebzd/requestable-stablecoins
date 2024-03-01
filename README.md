@@ -33,5 +33,7 @@ npx hardhat verify 0x07648428EF73dde0ba38D3775C6aaDc48fD20d9D --contract contrac
 ### Etherlink testnet
 
 DAI deployed at: 0xb8f26e0c5cc99Cdd8A42Ae8A8BaEbB20ecBD1C99
+
 USDC deployed at: 0x07648428EF73dde0ba38D3775C6aaDc48fD20d9D
+
 USDT deployed at: 0x42b2ae83596fA9f4D8D9958f571a10934ED5B2cc
